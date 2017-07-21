@@ -1,0 +1,7 @@
+body {
+    background-color: #CDCDCD
+}
+form{
+    float:left;
+}
+span.required {font-weight: bold; color:red;}
